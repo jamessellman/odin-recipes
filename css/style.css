@@ -1,0 +1,17 @@
+body {
+    background-color: #d9d9d9;
+    color: black;
+    font-size: large;
+}
+
+p {
+    color: #000000;
+}
+
+div {
+    background-color:  #8c8c8c; width: 700px;
+}
+
+.top {
+    background-color: aqua;
+}
